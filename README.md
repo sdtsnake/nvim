@@ -9,7 +9,9 @@ paso 1.
 corra esta linea de comandos
 ============================
 sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \\n       https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
-
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+    
 paso 2.
 =======
 instale esta mamada en su linux para blanquitos o si no copiar del porta papeles sera su peor pesadilla 
