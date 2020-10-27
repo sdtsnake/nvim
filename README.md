@@ -30,7 +30,7 @@ clone este repositorio dentro de la carpeta
 ===========================================
 git clone Url
 
-Nota: si el git te dice que ya esta lleno el directorio esta lleno entonces bajas los archivos del repo a esa carpeta.
+Nota: si el git te dice que ya esta lleno el directorio entonces bajas los archivos del repo a esa carpeta nvim.
 
 paso 5. 
 =======
